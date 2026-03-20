@@ -17,6 +17,6 @@ n8n으로 Github 자동화 워크플로우 만들기
 57:54 워크플로우 배포<br>
 01:00:19 여러분의 자동화, 이제 시작입니다<br>
 
-https://charmed-summer-94a.notion.site/n8n-Github-307bc95bcb9480b49b5ff08b18c811e5?pvs=143
+https://charmed-summer-94a.notion.site/n8n-Github-307bc95bcb9480b49b5ff08b18c811e5?pvs=143 <br>
 https://www.youtube.com/watch?v=D2qIc5rrUp8&t=1223s
 
